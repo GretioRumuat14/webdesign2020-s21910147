@@ -94,7 +94,7 @@ let helloWorld = function (nama) {
     );
 };
 console.log(age);
-helloWorld("rizky ramadhana");
+helloWorld("Gretio Rumuat");
 */
 
 let tinggi = prompt("Masukan Tinggi (Satuan Meter) : ");
